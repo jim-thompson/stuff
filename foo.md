@@ -4,7 +4,7 @@
 * [Consulting](https://delligattiassociates.com/consulting/)
 * [Our Clients](https://delligattiassociates.com/our-clients/)
 * [Resources -> Publications](https://delligattiassociates.com/publications/)
-* [Resources -> Blog]{https://delligattiassociates.com/blog/)
+* [Resources -> Blog](https://delligattiassociates.com/blog/)
 
 * [OOSEM](https://delligattiassociates.com/oosem-accelerator-mbse-methodology-training-course/)
 

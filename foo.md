@@ -7,6 +7,8 @@
   * [Publications](https://delligattiassociates.com/publications/)
   * [Presentations](https://delligattiassociates.com/presentations/)
   * [Blog](https://delligattiassociates.com/blog/)
+* [Online Store](https://ei194.infusionsoft.app/app/storeFront/showStoreFront)
+* [Contact Us](https://delligattiassociates.com/contact-us)
 
 * [OOSEM](https://delligattiassociates.com/oosem-accelerator-mbse-methodology-training-course/)
 

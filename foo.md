@@ -1,4 +1,4 @@
-[delligattiassociates.com](https://delligattiassociates.com)
+[**delligattiassociates.com**](https://delligattiassociates.com)
 * [OOSEM](https://delligattiassociates.com/oosem-accelerator-mbse-methodology-training-course/)
 
 [Infusionsoft](https://ei194.infusionsoft.com/)

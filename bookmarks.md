@@ -26,7 +26,7 @@
 * [Feedly](https://feedly.com/)
 * [Kindle Cloud Reader](https://read.amazon.com/)
 * [Turn any string into a valid filename in Python. · GitHub](https://gist.github.com/seanh/93666)
-* [Radar | Weather Underground](https://www.wunderground.com/radar/us/tx/houston-galveston/hgx)
+* [Radar - Weather Underground](https://www.wunderground.com/radar/us/tx/houston-galveston/hgx)
 * [Pirate Bay](https://www.tbp-mirror.com/)
 * [Principal Securities, Inc.](https://www2.mainaccount.com/WebApp/stmt/LoginInitServ?command=init&url=https%3A%2F%2Fwww2.mainaccount.com%2Fpfg%2F&framed=false&standardLogin=true)
 * [Sign in to Xfinity](https://login.xfinity.com/login?r=comcast.net&s=oauth&continue=https%3A%2F%2Foauth.xfinity.com%2Foauth%2Fauthorize%3Fclient_id%3Dmy-account-web%26prompt%3Dlogin%26redirect_uri%3Dhttps%253A%252F%252Fcustomer.xfinity.com%252Foauth%252Fcallback%26response_type%3Dcode%26state%3Dhttps%253A%252F%252Fcustomer.xfinity.com%252F%2523%252Fdevices%26response%3D1&client_id=my-account-web&reqId=8899133f-2cfb-42ff-9469-96c1f904c069&forceAuthn=1)

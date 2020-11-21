@@ -1,7 +1,7 @@
 # Stuff
 
-[Where's the stuff, man?](foo.md)
-[Bookmarks](bookmarks.md)
+* [Where's the stuff, man?](foo.md)
+* [Bookmarks](bookmarks.md)
 
 ## Welcome to GitHub Pages
 

@@ -1,7 +1,7 @@
-### Favorites
+## Favorites
+* [OctoPrint](http://octopi.local/)
 * [Google News](https://news.google.com/)
 * [Amazon](https://www.amazon.com/)
-* [OctoPrint](http://octopi.local/)
 * [Thingiverse](https://www.thingiverse.com/)
 * [Weight Loss 2020 - Google Sheets](https://docs.google.com/spreadsheets/d/1xZq541w9dB4upI6SwYS0RsJrZfAyOU3Ou1KAQs97SBY/edit#gid=1931999911)
 * [2020 Thompson Family Rendezvous Planning Sheet - Google Sheets](https://docs.google.com/spreadsheets/d/1jHQOW08puGS617-4TkvO4b42zl5mF043hPwfv-gSZ9o/edit#gid=1675525130)
@@ -27,7 +27,7 @@
 * [Feedly](https://feedly.com/)
 * [Kindle Cloud Reader](https://read.amazon.com/)
 * [Turn any string into a valid filename in Python. · GitHub](https://gist.github.com/seanh/93666)
-* [Radar - Weather Underground](https://www.wunderground.com/radar/us/tx/houston-galveston/hgx)
+* [Radar • Weather Underground](https://www.wunderground.com/radar/us/tx/houston-galveston/hgx)
 * [Pirate Bay](https://www.tbp-mirror.com/)
 * [Principal Securities, Inc.](https://www2.mainaccount.com/WebApp/stmt/LoginInitServ?command=init&url=https%3A%2F%2Fwww2.mainaccount.com%2Fpfg%2F&framed=false&standardLogin=true)
 * [Sign in to Xfinity](https://login.xfinity.com/login?r=comcast.net&s=oauth&continue=https%3A%2F%2Foauth.xfinity.com%2Foauth%2Fauthorize%3Fclient_id%3Dmy-account-web%26prompt%3Dlogin%26redirect_uri%3Dhttps%253A%252F%252Fcustomer.xfinity.com%252Foauth%252Fcallback%26response_type%3Dcode%26state%3Dhttps%253A%252F%252Fcustomer.xfinity.com%252F%2523%252Fdevices%26response%3D1&client_id=my-account-web&reqId=8899133f-2cfb-42ff-9469-96c1f904c069&forceAuthn=1)
@@ -40,7 +40,7 @@
 * [InfusionSoft](https://ei194.infusionsoft.com/)
 * [Adobe Connect](https://delligattiassociates.adobeconnect.com/admin/home/homepage?account-id=1110747084&principal-id=2807693325&showNotif=true&OWASP_CSRFTOKEN=510d34336c4d722b0073503dee657b5db60b5f88269a28615cb2ef38e5cb447f)
 * [Adobe Connect: MBSE Consultation](https://delligattiassociates.adobeconnect.com/mbse-consultation/?proto=true)
-* [Slack | operations | Delligatti Associates](https://app.slack.com/client/T01AP22CXHD/C01BGCZ9FUH)
+* [Slack - operations - Delligatti Associates](https://app.slack.com/client/T01AP22CXHD/C01BGCZ9FUH)
 * [delligattiassociates.com](https://delligattiassociates.com/)
 * [Delligatti Associates — WordPress](https://delligattiassociates.com/wp-admin/)
 * [CLONE — WordPress](https://vmp57rnzrvz.c.updraftclone.com/wp-admin/)
